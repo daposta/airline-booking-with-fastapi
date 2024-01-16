@@ -1,1 +1,3 @@
-# airline-booking-with-fastapi
+# Building an airline booking backend with FastAPI. This is an an experiment and not a real world project
+
+.
